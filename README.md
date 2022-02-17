@@ -1,5 +1,5 @@
 # IBAN VALIDATION REST API UI
-This is User Interface made for REST API what aim is to validate International Bank Account Number (IBAN). Validation process is made according to instruction from [Wikipedia](https://en.wikipedia.org/wiki/International_Bank_Account_Number#Algorithms).
+This is User Interface made for REST API with goal to validate International Bank Account Number (IBAN). Validation process is made according to instruction from [Wikipedia](https://en.wikipedia.org/wiki/International_Bank_Account_Number#Algorithms).
 This project consists only of frontend part. Backend written for this API locates at `https://github.com/jelikaer/IBAN-validation.git`.
 
 ### Used technologies for development, building and deployment
