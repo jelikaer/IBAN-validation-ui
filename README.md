@@ -16,8 +16,8 @@ This project consists only of frontend part. Backend written for this API locate
 
 ### IBAN VALIDATION User manual guide
 1. Open web site with installed IBAN-validation-ui application.
-2. You will see simple interface with header "IBAN CHECKER", few lines of text, text box and `Check IBAN` button.
+2. You will see simple interface with small instruction of how to use an application, few examples of IBANs, text box where you will write IBAN for validation and `Check IBAN` button.
 3. Type one or more IBANs you want to check into text box. According to the given example, your IBANs might contain whitespaces or not. So both  `EE38 2200 2210 2014 5685` and `EE382200221020145685` are acceptable. In case of multiple IBANs, please, separate them with coma.
-4. press the `Check IBAN` button.
-5. You will see your IBAN/IBANs written in a column one below the other with their states what might be `VALID` or `INVALID`.
+4. Press the `Check IBAN` button.
+5. You will see your IBAN/IBANs with their states what might be `VALID` or `INVALID`.
 6. Press the `Back` button to repeat process from step 2.
