@@ -1,6 +1,6 @@
 # IBAN VALIDATION REST API UI
 This is User Interface made for REST API what aim is to validate International Bank Account Number (IBAN). Validation process is made according to instruction from [Wikipedia](https://en.wikipedia.org/wiki/International_Bank_Account_Number#Algorithms).
-This project consists only of frontend part. Backend written for this API locates at ...
+This project consists only of frontend part. Backend written for this API locates at `https://github.com/jelikaer/IBAN-validation.git`.
 
 ### Used technologies for development, building and deployment
 * Git 2.32.0
@@ -8,7 +8,7 @@ This project consists only of frontend part. Backend written for this API locate
 
 ### Frontend installation and running guide
 1. Clone repository using Git (here will be repository address)
- `git clone ...`
+ `git clone https://github.com/jelikaer/IBAN-validation-ui.git`
 2. go to clone repository
 3. By default server URL is 'http://localhost:8080/api/validate'. You can change this value at `ServerUrl.js/src/IBAN-validation-ui`
 4. run `npm start`
