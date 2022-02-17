@@ -11,7 +11,8 @@ This project consists only of frontend part. Backend written for this API locate
  `git clone https://github.com/jelikaer/IBAN-validation-ui.git`
 2. Go to the cloned repository local folder with name "IBAN-validation-ui"
 3. By default this web user interface use endpoint with URL `http://localhost:8080/api/validate`. You can change this URL at `IBAN-validation-ui/src/ServerUrl.js`
-4. Run `npm start`
+4. Run `npm install`
+5. Run `npm start`
 
 ### IBAN VALIDATION User manual guide
 1. Open web site with installed IBAN-validation-ui application.
